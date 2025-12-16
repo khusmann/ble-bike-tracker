@@ -27,16 +27,18 @@ app (Kotlin) that work together to:
 
 ### Device Tab
 
-<table>
-  <tr>
-    <td><img src="android/screenshots/Screenshot_20251123-171053.png" alt="Device Tab - Disconnected" width="300"/></td>
-    <td><img src="android/screenshots/Screenshot_20251123-171135.png" alt="Device Tab - Connected" width="300"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Disconnected</b></td>
-    <td align="center"><b>Connected</b></td>
-  </tr>
-</table>
+<div align="center"> 
+   <table>
+   <tr>
+      <td align="center"><b>Disconnected</b></td>
+      <td align="center"><b>Connected</b></td>
+   </tr>
+   <tr>
+      <td><img src="android/screenshots/Screenshot_20251123-171053.png" alt="Device Tab - Disconnected" width="300"/></td>
+      <td><img src="android/screenshots/Screenshot_20251123-171135.png" alt="Device Tab - Connected" width="300"/></td>
+   </tr>
+   </table>
+</div>
 
 - Live cadence display (RPM)
 - Total revolution count
@@ -45,11 +47,13 @@ app (Kotlin) that work together to:
 
 ### Background Sync Settings Tab
 
-<table>
-  <tr>
-    <td><img src="android/screenshots/Screenshot_20251123-171151.png" alt="Background Sync Settings" width="300"/></td>
-  </tr>
-</table>
+<div align="center"> 
+   <table>
+   <tr>
+      <td><img src="android/screenshots/Screenshot_20251123-171151.png" alt="Background Sync Settings" width="300"/></td>
+   </tr>
+   </table>
+</div>
 
 - Last sync timestamp (relative and absolute)
 - Last synced session timestamp
