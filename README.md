@@ -25,8 +25,8 @@ app (Kotlin) that work together to:
 
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot_20251123-171053.png" alt="Device Tab - Disconnected" width="300"/></td>
-    <td><img src="screenshots/Screenshot_20251123-171135.png" alt="Device Tab - Connected" width="300"/></td>
+    <td><img src="android/screenshots/Screenshot_20251123-171053.png" alt="Device Tab - Disconnected" width="300"/></td>
+    <td><img src="android/screenshots/Screenshot_20251123-171135.png" alt="Device Tab - Connected" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><b>Disconnected</b></td>
@@ -43,7 +43,7 @@ app (Kotlin) that work together to:
 
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot_20251123-171151.png" alt="Background Sync Settings" width="300"/></td>
+    <td><img src="android/screenshots/Screenshot_20251123-171151.png" alt="Background Sync Settings" width="300"/></td>
   </tr>
 </table>
 
