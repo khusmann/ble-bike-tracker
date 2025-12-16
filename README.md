@@ -4,9 +4,13 @@ A custom ESP32-based tracking system that transforms a "dumb" stationary bike
 into a smart fitness device that syncs with Google Health Connect--without
 vendor lock-in or proprietary apps.
 
-**Blog Posts:**
+## Blog Posts
+
 [I Put an ESP32 in My Stationary Bike](https://www.kylehusmann.com/posts/2025/esp32-stationary-bike/) -
 Read about the motivation, hardware installation, and initial setup.
+
+[AI-Coding a Mobile App and Firmware for My Stationary Bike](https://www.kylehusmann.com/posts/2025/ai-coding-mobile-app-firmware-stationary-bike) -
+Read about my experience coding the firmware and mobile app with Claude Code.
 
 ## Overview
 
