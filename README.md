@@ -21,18 +21,31 @@ app (Kotlin) that work together to:
 
 ## Mobile App Features
 
-**Device Tab:**
+### Device Tab
 
-(screenshots)
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot_20251123-171053.png" alt="Device Tab - Disconnected" width="300"/></td>
+    <td><img src="screenshots/Screenshot_20251123-171135.png" alt="Device Tab - Connected" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Disconnected</b></td>
+    <td align="center"><b>Connected</b></td>
+  </tr>
+</table>
 
 - Live cadence display (RPM)
 - Total revolution count
 - Connection status indicator
 - Manual connect/disconnect controls
 
-**Background Sync Settings Tab:**
+### Background Sync Settings Tab
 
-(screenshots)
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot_20251123-171151.png" alt="Background Sync Settings" width="300"/></td>
+  </tr>
+</table>
 
 - Last sync timestamp (relative and absolute)
 - Last synced session timestamp
