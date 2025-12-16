@@ -41,7 +41,7 @@ app (Kotlin) that work together to:
 </div>
 
 - Live cadence display (RPM)
-- Total revolution count
+- Total revolution count (since power on)
 - Connection status indicator
 - Manual connect/disconnect controls
 
